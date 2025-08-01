@@ -1,4 +1,4 @@
-https://www.canva.com/design/DAGuzrVM5hA/ITyeXdNo1-ygY7OLsWmdpg/view?utm_content=DAGuzrVM5hA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview
+![alt_text](https://raw.githubusercontent.com/kritikapathak06/Assets-and-Images/refs/heads/main/Text.png?token=GHSAT0AAAAAADILIL64TTICQTFHGAGLV6AA2EMM5CQ)
 
 ## Hi there 👋
 
