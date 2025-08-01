@@ -1,10 +1,10 @@
-https://www.canva.com/design/DAGuzrVM5hA/ITyeXdNo1-ygY7OLsWmdpg/view?utm_content=DAGuzrVM5hA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview
+https://github.com/kritikapathak06/Assets-and-Images/blob/main/Text.png?raw=true
 
 ## Hi there 👋
 
 Vyom is building the platform to power the future of autonomous robots and drones.
 
-We are creating a software-defined ecosystem to empowers the robotics industry with unmatched adaptability, flexibility, and scalability, to operate and orchestrate their fleets.
+We are creating a software-defined ecosystem to empower the robotics industry with unmatched adaptability, flexibility, and scalability, to operate and orchestrate their fleets.
 
 We are building:
 
