@@ -1,3 +1,5 @@
+https://www.canva.com/design/DAGuzrVM5hA/ITyeXdNo1-ygY7OLsWmdpg/view?utm_content=DAGuzrVM5hA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview
+
 ## Hi there 👋
 
 Vyom is building the platform to power the future of autonomous robots and drones.
@@ -6,7 +8,7 @@ We are creating a software-defined ecosystem to empowers the robotics industry w
 
 We are building:
 
-Vyom IQ (https://vyomiq.io) Command centre in the cloud to operate, orchestrate, monitor and aggregate data from your robot and drone fleets. It unifies planning, teleoperation, observability, data capture and fleet health monitoring – into a single pane of glass.
+Vyom IQ (https://vyomiq.io) Command centre in the cloud to operate, orchestrate, monitor, and aggregate data from your robot and drone fleets. It unifies planning, teleoperation, observability, data capture, and fleet health monitoring into a single pane of glass.
 
 Vyom GCS (Ground Control Station): For more granular mission planning and real-time operation of drones and bots, either autonomously or with human-in-the-loop.
 
