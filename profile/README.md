@@ -1,4 +1,4 @@
-![alt_text](https://github.com/kritikapathak06/Assets-and-Images/blob/main/Text.png?raw=true)
+![alt_text](https://github.com/kritikapathak06/Assets-and-Images/blob/main/Text.png)
 
 ## Hi there 👋
 
