@@ -1,4 +1,4 @@
-![alt_text](https://github.com/kritikapathak06/Assets-and-Images/blob/main/Text.png)
+![alt_text](https://github.com/vyom-os/.github/blob/main/Text22.png)
 
 ## Hi there 👋
 
